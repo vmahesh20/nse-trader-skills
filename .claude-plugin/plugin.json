@@ -1,0 +1,25 @@
+{
+  "name": "nse-trader-skills",
+  "description": "Claude skills for NSE intraday and swing trading: ORB and swing scanners, news, entry, exit, Time Machine odds, swing backtest, risk manager, position sizing, Zerodha/Dhan order tickets (paper by default) and alerts. IST hours, NSE holidays, Rs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Algo Traders Tamil",
+    "url": "https://algotamil.com"
+  },
+  "homepage": "https://github.com/vmahesh20/nse-trader-skills",
+  "repository": "https://github.com/vmahesh20/nse-trader-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "nse",
+    "india",
+    "intraday",
+    "swing-trading",
+    "opening-range-breakout",
+    "zerodha",
+    "dhan",
+    "paper-trading"
+  ],
+  "skills": "./"
+}

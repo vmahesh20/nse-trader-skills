@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nse-trader-skills",
+  "description": "NSE (India) intraday + swing trading skills for Claude",
+  "owner": {
+    "name": "Algo Traders Tamil",
+    "url": "https://algotamil.com"
+  },
+  "plugins": [
+    {
+      "name": "nse-trader-skills",
+      "description": "Claude skills for NSE intraday and swing trading: ORB and swing scanners, news, entry, exit, Time Machine odds, swing backtest, risk manager, position sizing, Zerodha/Dhan order tickets (paper by default) and alerts. IST hours, NSE holidays, Rs.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/vmahesh20/nse-trader-skills"
+    }
+  ]
+}
