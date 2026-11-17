@@ -4,7 +4,7 @@
 
 Scan the market, time the entry, set the stop and target, check the odds, size the position, pass a risk check, and get an order ticket for Zerodha or Dhan, all by asking Claude in plain words. Paper trading by default. Nothing is ever placed without your yes.
 
-By **[Algo Traders Tamil](https://algotamil.com)** · Telegram [@Algotradersadmin](https://t.me/Algotradersadmin)
+By **Algo Traders Tamil** · YouTube [@Algotraderstamil](https://www.youtube.com/@Algotraderstamil) · Telegram [t.me/AlgoTradersTamil](https://t.me/AlgoTradersTamil)
 A modified version of **[day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) by Jake Schincariol** (MIT licence), the US original. See [Credits](#credits-and-licence) and [NOTICE.md](NOTICE.md).
 
 ---
@@ -89,6 +89,6 @@ Quarterly results dates, NSE ASM/GSM surveillance lists, options and F&O, short 
 This project is a **modified version of [day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) by Jake Schincariol**, used under the MIT licence. The original copyright and permission notice are kept in [LICENSE](LICENSE). The full list of changes is in [NOTICE.md](NOTICE.md).
 
 - Original US skill pack (scanner, news, entry, exit, Time Machine, risk, budget, broker, alerts): **Jake Schincariol**
-- NSE / India adaptation, swing mode, Zerodha / Dhan support: **[Algo Traders Tamil](https://algotamil.com)**, Telegram [@Algotradersadmin](https://t.me/Algotradersadmin)
+- NSE / India adaptation, swing mode, Zerodha / Dhan support: **Algo Traders Tamil**, YouTube [@Algotraderstamil](https://www.youtube.com/@Algotraderstamil), Telegram [t.me/AlgoTradersTamil](https://t.me/AlgoTradersTamil)
 
 MIT licence. Copyright (c) 2026 Jake Schincariol; modifications copyright (c) 2026 Algo Traders Tamil.
